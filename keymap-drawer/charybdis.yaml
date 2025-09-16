@@ -52,7 +52,7 @@ layers:
   - {t: TAB, h: NUMBERS}
   - SPACE
   - {t: LEFT GUI, h: NAV-FUN}
-  - {t: ENTER, h: NUMBERS}
+  - {t: RETURN, h: NUMBERS}
   - BACK SPACE
   - R CLK
   - L CLK
@@ -640,7 +640,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ZMK Studio
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
