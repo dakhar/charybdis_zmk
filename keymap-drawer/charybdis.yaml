@@ -52,7 +52,7 @@ layers:
   - {t: TAB, h: NUMBERS}
   - SPACE
   - {t: LEFT GUI, h: NAV-FUN}
-  - {t: RETURN, h: NUMBERS}
+  - ENTER
   - BACK SPACE
   - R CLK
   - L CLK
